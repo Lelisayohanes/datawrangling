@@ -1,5 +1,10 @@
 # Data Wrangling Repository
 
+Data wrangling and preprocessing repository for sales and application log datasets.
+
+## About
+This repository contains structured datasets, data cleaning pipelines, and documentation for preparing sales and log data for analysis and forecasting.
+
 ## Purpose
 This repository is designed to structure, clean, and prepare datasets for analysis and modeling. The focus is on building reproducible data pipelines that transform raw data into analysis-ready formats.
 
