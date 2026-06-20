@@ -1,0 +1,16 @@
+component,count
+org.apache.hadoop.ipc.Client,622
+org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator,457
+org.apache.hadoop.hdfs.LeaseRenewer,326
+org.apache.hadoop.mapred.TaskAttemptListenerImpl,314
+org.apache.hadoop.mapreduce.v2.app.job.impl.TaskAttemptImpl,60
+org.apache.hadoop.yarn.util.RackResolver,39
+org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl,37
+org.apache.hadoop.mapreduce.v2.app.job.impl.TaskImpl,24
+org.apache.hadoop.mapreduce.v2.app.rm.RMContainerRequestor,17
+org.apache.hadoop.yarn.client.api.impl.ContainerManagementProtocolProxy,14
+org.apache.hadoop.mapreduce.v2.app.speculate.DefaultSpeculator,13
+SecurityLogger.org.apache.hadoop.ipc.Server,10
+org.apache.hadoop.yarn.event.AsyncDispatcher,9
+org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl,8
+org.apache.hadoop.mapreduce.v2.app.MRAppMaster,7

@@ -1,0 +1,9 @@
+component,count
+org.apache.hadoop.ipc.Client,476
+org.apache.hadoop.hdfs.LeaseRenewer,326
+org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator,148
+org.apache.hadoop.hdfs.DFSClient,4
+org.apache.hadoop.mapred.TaskAttemptListenerImpl,2
+org.apache.hadoop.mapreduce.v2.app.commit.CommitterEventHandler,2
+org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler,1
+org.apache.hadoop.yarn.YarnUncaughtExceptionHandler,1
