@@ -101,4 +101,4 @@ if __name__ == "__main__":
     # Save processed data
     os.makedirs("processed_data/sales-data", exist_ok=True)
     processed_df.to_csv("processed_data/sales-data/vehicle_features.csv", index=False)
-    print("✅ Data processing complete! Processed data saved.")
+    print("Data processing complete. Processed data saved.")
